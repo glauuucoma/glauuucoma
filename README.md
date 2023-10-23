@@ -1,5 +1,5 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
-<h2>💼 On the lookout for internship opportunities <br/>to apply my skills and gain real-world experience.</h2>
+<h2 align="center">💼 On the lookout for internship opportunities <br/>to apply my skills and gain real-world experience.</h2>
 
 <h1> About me: </h1>
 <ul>
