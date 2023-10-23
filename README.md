@@ -1,6 +1,7 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
 <h2 align="center">💼 On the lookout for internship opportunities <br/>to apply my skills and gain real-world experience.</h2>
 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></img>
 <h1> About me: </h1>
 <ul>
   <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.9 GPA</b>.</li>
