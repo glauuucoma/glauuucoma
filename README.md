@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
 <!--
 **glauuucoma/glauuucoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
