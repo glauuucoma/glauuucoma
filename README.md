@@ -1,6 +1,6 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
 
-<h1 About me: /h1>
+<h1> About me: </h1>
 <!--
 **glauuucoma/glauuucoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
