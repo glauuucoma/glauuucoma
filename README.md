@@ -47,9 +47,8 @@
 <br/>
 
 <h2>Articles:</h2>
-[Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=pahlevikun)
-[![Davyd Kuleba Medium](https://github-readme-medium.vercel.app/?username=kulebadavid)](https://medium.com/@kulebadavid)
-<br/>
+ [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=kulebadavid)
+ <br/>
 <br/>
 <br/>
 
