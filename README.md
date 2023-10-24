@@ -1,10 +1,6 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
 <br/>
 <br/>
-<br/>
-![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
-<br/>
-<br/>
 <h1> About me: </h1>
 <ul>
   <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.9 GPA</b>.</li>
@@ -45,3 +41,8 @@
   - Core components and technologies: Swift, SwiftUI, XCode, Firebase, API, Core.
 
 <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
+
+<br/>
+<br/>
+<br/>
+![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
