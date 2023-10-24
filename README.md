@@ -57,6 +57,6 @@
 <a href="https://medium.com/veritree/how-veritree-enables-its-partners-to-have-an-enhanced-game-experience-354ae6f8f660"><p>Link</p></a>
  <br/>
  <br/>
-
 <h2>GitHub Stat:</h2>
+
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
