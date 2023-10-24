@@ -5,7 +5,6 @@
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
 <br/>
 <br/>
-<br/>
 <h1> About me: </h1>
 <ul>
   <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.9 GPA</b>.</li>
