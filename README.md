@@ -1,10 +1,18 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
+<br/>
+<br/>
+<br/>
+<h1> About me: </h1>
+<ul>
+  <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.9 GPA</b>.</li>
+  <li>📱 Experience in <b>Front-End development</b> and <b>iOS app development</b> with a strong grasp of Python, Swift, JavaScript, HTML, CSS and more.</li>
+  <li>🌟 Eager to dive into new languages and technologies, always excited to expand my skill set.</li>
+  <li>🤖 Technologies: Git, SwiftUI, Gulp, SCSS, Xcode, MySql, JSON....</li>
+  <li>👨‍💻 Enjoys working collaboratively and learning from professionals to grow my knowledge.</li>
+  <li>📚 Currently deep diving into data structures and algorithms for a strong foundation by solving <b>Leetcode</b> problems.</li>
+</ul>
 
-<div style="display: flex;">
-    <div style="flex: 50%; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula" alt="Davyd's GitHub stats" />
-    </div>
-    <div style="flex: 50%; padding: 10px;">
+<div align="center">
             <h2>Technologies and languages I use:</h2>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img>
@@ -20,19 +28,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></img>
     </div>
-</div>
-<br/>
-<br/>
-<br/>
-<h1> About me: </h1>
-<ul>
-  <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.9 GPA</b>.</li>
-  <li>📱 Experience in <b>Front-End development</b> and <b>iOS app development</b> with a strong grasp of Python, Swift, JavaScript, HTML, CSS and more.</li>
-  <li>🌟 Eager to dive into new languages and technologies, always excited to expand my skill set.</li>
-  <li>🤖 Technologies: Git, SwiftUI, Gulp, SCSS, Xcode, MySql, JSON....</li>
-  <li>👨‍💻 Enjoys working collaboratively and learning from professionals to grow my knowledge.</li>
-  <li>📚 Currently deep diving into data structures and algorithms for a strong foundation by solving <b>Leetcode</b> problems.</li>
-</ul>
 
 <h2>Currently Working On</h2>
 
