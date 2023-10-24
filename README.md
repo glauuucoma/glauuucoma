@@ -2,9 +2,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-
 <div align="center">
   <h2>Technologies and languages I use:</h2>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img>
@@ -21,6 +18,9 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></img>
 </div>
+<br/>
+<br/>
+<br/>
 <h1> About me: </h1>
 <ul>
   <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.9 GPA</b>.</li>
