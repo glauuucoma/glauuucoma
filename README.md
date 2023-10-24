@@ -44,13 +44,13 @@
 <br/>
 
 <h2>Articles:</h2>
-<h3>TreeTutorial: How to read planting site data</h3>
+<h2>TreeTutorial: How to read planting site data</h3>
 <a href="https://medium.com/veritree/treetutorial-how-to-read-planting-site-data-b58dd0b5cf1e">
   <img src="https://i.ibb.co/xhcn7Bh/1-Nd-U297-RA5gvc-Y2m-JRPD-n-A.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0" width="330px">
 </a>
 <a href="https://medium.com/veritree/treetutorial-how-to-read-planting-site-data-b58dd0b5cf1e"><p>Link</p></a>
 <br />
-<h3>How Veritree enables its partners to have an enhanced game experience</h3>
+<h2>How Veritree enables its partners to have an enhanced game experience</h3>
 <a href="https://medium.com/veritree/how-veritree-enables-its-partners-to-have-an-enhanced-game-experience-354ae6f8f660">
   <img src="https://i.ibb.co/HYQSrZd/1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A.webp" alt="1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A" border="0" width="330px">
 </a>
@@ -58,4 +58,5 @@
  <br/>
  <br/>
 
+<h2>GitHub Stat:</h2>
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
