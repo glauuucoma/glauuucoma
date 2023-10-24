@@ -47,7 +47,9 @@
 <br/>
 
 <h2>Articles:</h2>
- [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=kulebadavid)
+<h4>TreeTutorial: How to read planting site data</h4>
+<a href="https://ibb.co/SvryDP7"><img src="https://i.ibb.co/7y4CxXN/1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0"></a>
+<h4>How Veritree enables its partners to have an enhanced game experience</h4>
  <br/>
 <br/>
 <br/>
