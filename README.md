@@ -1,6 +1,13 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
 <h2 align="center">💼 On the lookout for internship opportunities <br/>to apply my skills and gain real-world experience.</h2>
 
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></img>
 <h1> About me: </h1>
 <ul>
