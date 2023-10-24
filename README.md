@@ -1,9 +1,11 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
 
-<div>
-    ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
-
-<h2>Technologies and languages I use:</h2>
+<div style="display: flex;">
+    <div style="flex: 50%; padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula" alt="Davyd's GitHub stats" />
+    </div>
+    <div style="flex: 50%; padding: 10px;">
+            <h2>Technologies and languages I use:</h2>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></img>
@@ -17,6 +19,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></img>
+    </div>
 </div>
 
 
