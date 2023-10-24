@@ -1,4 +1,7 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
+<br/>
+<br/>
+<br/>
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
 <br/>
 <br/>
