@@ -45,9 +45,13 @@
 
 <h2>Articles:</h2>
 <h4>TreeTutorial: How to read planting site data</h4>
-<a href="https://ibb.co/SvryDP7"><img src="https://i.ibb.co/7y4CxXN/1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0" width="200""></a>
+<a href="https://medium.com/veritree/treetutorial-how-to-read-planting-site-data-b58dd0b5cf1e">
+  <img src="https://i.ibb.co/7y4CxXN/1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0" width="300px">
+</a>
 <h4>How Veritree enables its partners to have an enhanced game experience</h4>
-<a href="https://ibb.co/k0F7hZ1"><img src="https://i.ibb.co/HYQSrZd/1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A.webp" alt="1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A" border="0"></a>
+<a href="https://medium.com/veritree/how-veritree-enables-its-partners-to-have-an-enhanced-game-experience-354ae6f8f660">
+  <img src="https://i.ibb.co/HYQSrZd/1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A.webp" alt="1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A" border="0" width="70%">
+</a>
  <br/>
 
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
