@@ -41,17 +41,13 @@
   - Core components and technologies: Swift, SwiftUI, XCode, Firebase, API, Core.
 
 <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
-
-<br/>
-<br/>
 <br/>
 
 <h2>Articles:</h2>
 <h4>TreeTutorial: How to read planting site data</h4>
-<a href="https://ibb.co/SvryDP7"><img src="https://i.ibb.co/7y4CxXN/1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0"></a>
+<a href="https://ibb.co/SvryDP7"><img src="https://i.ibb.co/7y4CxXN/1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0" width="200" height="150"></a>
 <h4>How Veritree enables its partners to have an enhanced game experience</h4>
+<a href="https://ibb.co/k0F7hZ1"><img src="https://i.ibb.co/HYQSrZd/1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A.webp" alt="1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A" border="0"></a>
  <br/>
-<br/>
-<br/>
 
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
