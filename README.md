@@ -10,7 +10,7 @@
   <li>👨‍💻 Enjoys working collaboratively and learning from professionals to grow my knowledge.</li>
   <li>📚 Currently deep diving into data structures and algorithms for a strong foundation by solving <b>Leetcode</b> problems.</li>
 </ul>
-
+<br/>
 <div align="center">
             <h2>Technologies and languages I use:</h2>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img>
