@@ -31,7 +31,7 @@
     </div>
 <br/>
 
-<h2>Currently Working On</h2>
+<h2>💻 Currently Working On</h2>
 
 - **Climbing Gyms iOS App** 🧗‍♂️
   - Building a single-page iOS app that focuses on rating climbing gyms in Toronto.
@@ -46,7 +46,7 @@
 <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
 <br/>
 
-<h1>Articles:</h1>
+<h1>📝 Articles:</h1>
 <h2>TreeTutorial: How to read planting site data</h3>
 <a href="https://medium.com/veritree/treetutorial-how-to-read-planting-site-data-b58dd0b5cf1e">
   <img src="https://i.ibb.co/xhcn7Bh/1-Nd-U297-RA5gvc-Y2m-JRPD-n-A.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0" width="330px">
@@ -64,7 +64,7 @@
 
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
 
-## Connect with me
+## 🔗Connect with me
 <p>
   <a href="mailto:kulebadavid@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/glauuucoma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
