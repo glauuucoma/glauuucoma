@@ -63,3 +63,20 @@
 <h2>GitHub Stat:</h2>
 
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
+
+## :link: Connect with me
+<p>
+  <a href="mailto:aryankhurana1511@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AryanK1511" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/aryan-khurana-239684229/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/AryanK1511" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.youtube.com/channel/UCCrKswcxk_hCSXedUEOs7Fw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+## Connect with me
+<p>
+  <a href="mailto:kulebadavid@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/glauuucoma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/davyd-kuleba-716740216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
