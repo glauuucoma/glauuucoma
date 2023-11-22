@@ -12,7 +12,7 @@
 </ul>
 <br/>
 <div align="center">
-            <h2>Technologies and languages I use:</h2>
+            <h2>Languages and technologies I use:</h2>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
