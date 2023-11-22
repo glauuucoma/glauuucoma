@@ -8,7 +8,7 @@
   <li>🌟 Eager to dive into new languages and technologies, always excited to expand my skill set.</li>
   <li>🤖 Technologies: Git, SwiftUI, Gulp, SCSS, Xcode, MySql, JSON....</li>
   <li>👨‍💻 Enjoys working collaboratively and learning from professionals to grow my knowledge.</li>
-  <li>📚 Currently deep diving into data structures and algorithms for a strong foundation by solving <b>Leetcode</b> problems.</li>
+  <li>📚 Currently deep diving into data structures and algorithms for a strong foundation by solving <b>Leetcode</b> problems and taking <b>AlgoExpert course</b>.</li>
 </ul>
 <br/>
 <div align="center">
