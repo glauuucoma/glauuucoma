@@ -64,6 +64,9 @@
 
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
 
+<br/>
+<br/>
+
 ## 🔗Connect with me
 <p>
   <a href="mailto:kulebadavid@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
