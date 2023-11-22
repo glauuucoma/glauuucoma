@@ -46,7 +46,7 @@
 <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
 <br/>
 
-<h1>📝 Articles:</h1>
+<h2>📝 Articles:</h2>
 <h2>TreeTutorial: How to read planting site data</h3>
 <a href="https://medium.com/veritree/treetutorial-how-to-read-planting-site-data-b58dd0b5cf1e">
   <img src="https://i.ibb.co/xhcn7Bh/1-Nd-U297-RA5gvc-Y2m-JRPD-n-A.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0" width="330px">
