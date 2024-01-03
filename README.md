@@ -3,7 +3,7 @@
 <br/>
 <h1> About me: </h1>
 <ul>
-  <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.9 GPA</b>.</li>
+  <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.6 GPA</b>.</li>
   <li>📱 Experience in <b>Front-End development</b> and <b>iOS app development</b> with a strong grasp of Python, Swift, JavaScript, HTML, CSS and more.</li>
   <li>🌟 Eager to dive into new languages and technologies, always excited to expand my skill set.</li>
   <li>🤖 Technologies: Git, SwiftUI, Gulp, SCSS, Xcode, MySql, JSON....</li>
