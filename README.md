@@ -49,7 +49,7 @@
  <h2>ByteBasket</h2>
  <h3>Empowering communities with a user-friendly food bank web app—effortless inventory browsing, quick checkout, and seamless connections for volunteering and product donations</h3>
  <a href="https://devpost.com/software/bytebasket">
-   ![gallery](https://github.com/glauuucoma/glauuucoma/assets/36370603/5a036d95-8243-4518-ab3b-64a7251392e3)
+   <img src"https://github.com/glauuucoma/glauuucoma/assets/36370603/5a036d95-8243-4518-ab3b-64a7251392e3">
  </a>
  <br/>
  <a href="https://devpost.com/software/bytebasket">Project Page</a>
