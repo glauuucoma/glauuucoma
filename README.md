@@ -44,6 +44,19 @@
  <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
  <br/>
 
+ <h2> Hackathons projects:</h2>
+
+ <h2>ByteBasket</h2>
+ <h3>Empowering communities with a user-friendly food bank web app—effortless inventory browsing, quick checkout, and seamless connections for volunteering and product donations</h3>
+ <a href="https://devpost.com/software/bytebasket">
+   ![gallery](https://github.com/glauuucoma/glauuucoma/assets/36370603/5a036d95-8243-4518-ab3b-64a7251392e3)
+ </a>
+ <br/>
+ <a href="https://devpost.com/software/bytebasket">Project Page</a>
+ <br />
+
+ 
+
  <h2>📝 Articles:</h2>
 
  <h2>TreeTutorial: How to read planting site data</h2>
