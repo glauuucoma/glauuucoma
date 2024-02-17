@@ -35,7 +35,7 @@
 
  <h2>💻 Currently Working On</h2>
 
- - **Luv-ur-taste.com** 🤖
+**Luv-ur-taste.com** 🎵
    - Developing a web app that utilizes the user's Spotify playlist to analyze their music taste
    - Using AI to predict music that the user will enjoy and provide detailed analytics.
    - Core components and technologies: React, Next.js, Tailwind CSS, MongoDB
