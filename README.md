@@ -35,15 +35,10 @@
 
  <h2>💻 Currently Working On</h2>
 
- - **Climbing Gyms iOS App** 🧗‍♂️
-   - Building a single-page iOS app that focuses on rating climbing gyms in Toronto.
-   - Exploring the possibility of displaying available bouldering spots across the Greater Toronto Area.
-   - Core components and technologies: Python, Telegram Bot API, Webhook, Hosting.
-
- - **ConnectU Telegram Bot** 🤖
-   - Developing a Telegram bot to assist Ukrainians in registering for government services, such as obtaining a new passport from the embassy.
-   - The bot will monitor websites and notify users about available appointment slots.
-   - Core components and technologies: Swift, SwiftUI, XCode, Firebase, API, Core.
+ - **Luv-ur-taste.com** 🤖
+   - Developing a web app that utilizes the user's Spotify playlist to analyze their music taste
+   - Using AI to predict music that the user will enjoy and provide detailed analytics.
+   - Core components and technologies: React, Next.js, Tailwind CSS, MongoDB
 
  <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
  <br/>
