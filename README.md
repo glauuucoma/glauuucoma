@@ -55,6 +55,16 @@
  <a href="https://devpost.com/software/bytebasket">Project Page</a>
  <br />
  <br/>
+
+ <h2>ImagiTalk</h2>
+ <h2>Discover the magic of connecting with your beloved childhood characters in just a few clicks. Engage with your favourite fictional universes</h2>
+ <a href="https://devpost.com/software/imagitalk">
+  <img src="https://github.com/glauuucoma/glauuucoma/assets/36370603/2f23225d-e796-4938-a76c-b0180c1b8b34" border="0" width="330px"/>
+ </a>
+ <br/>
+ <a href="https://devpost.com/software/imagitalk">Project Page</a>
+ <br />
+ <br/>
   <br/>
   <br/>
  
