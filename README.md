@@ -46,7 +46,7 @@
 
  <h2> Hackathons projects:</h2>
 
- <p style="font-size: 10em;">ByteBasket</p>
+ <h2>ByteBasket</h2>
  <h4>Empowering communities with a user-friendly food bank web app—effortless inventory browsing, quick checkout, and seamless connections for volunteering and product donations</h4>
  <a href="https://devpost.com/software/bytebasket">
    <img src="https://github.com/glauuucoma/glauuucoma/assets/36370603/5a036d95-8243-4518-ab3b-64a7251392e3" border="0" width="330px"/>
