@@ -45,7 +45,6 @@
  <br/>
 
  <h1> Hackathons projects:</h1>
-
  <h2>ByteBasket</h2>
  <h2>Empowering communities with a user-friendly food bank web app—effortless inventory browsing, quick checkout, and seamless connections for volunteering and product donations</h2>
  <a href="https://devpost.com/software/bytebasket">
@@ -55,7 +54,6 @@
  <a href="https://devpost.com/software/bytebasket">Project Page</a>
  <br />
  <br/>
-
  <h2>ImagiTalk</h2>
  <h2>Discover the magic of connecting with your beloved childhood characters in just a few clicks. Engage with your favourite fictional universes</h2>
  <a href="https://devpost.com/software/imagitalk">
@@ -67,7 +65,6 @@
  <br/>
   <br/>
   <br/>
- 
 
  <h2>📝 Articles:</h2>
 
