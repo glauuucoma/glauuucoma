@@ -1,29 +1,80 @@
 ![Profile Header](https://i.ibb.co/XJXVVyH/Green-and-White-Modern-Web-Developer-Resume.png)
+ <br/>
+ <br/>
+ <h1> About me: </h1>
+ <ul>
+   <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.6 GPA</b>.</li>
+   <li>📱 Experience in <b>Front-End development</b> and <b>iOS app development</b> with a strong grasp of Python, Swift, JavaScript, HTML, CSS and more.</li>
+   <li>🌟 Eager to dive into new languages and technologies, always excited to expand my skill set.</li>
+   <li>🤖 Technologies: Git, SwiftUI, Gulp, SCSS, Xcode, MySql, JSON....</li>
+   <li>👨‍💻 Enjoys working collaboratively and learning from professionals to grow my knowledge.</li>
+   <li>📚 Currently deep diving into data structures and algorithms for a strong foundation by solving <b>Leetcode</b> problems and taking <b>AlgoExpert course</b>.</li>
+ </ul>
+ <br/>
+ <div align="center">
+             <h2>Languages and technologies I use:</h2>
+   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+     <br/>
+   <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
+   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+     </div>
+ <br/>
 
+ <h2>💻 Currently Working On</h2>
 
-<h1 align="center">Hi 👋, I'm Davyd Kuleba</h1>
-<h3 align="center">Passionate Software Engineer | Computer Programming & Analysis at Seneca</h3>
+ - **Climbing Gyms iOS App** 🧗‍♂️
+   - Building a single-page iOS app that focuses on rating climbing gyms in Toronto.
+   - Exploring the possibility of displaying available bouldering spots across the Greater Toronto Area.
+   - Core components and technologies: Python, Telegram Bot API, Webhook, Hosting.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glauuucoma" alt="glauuucoma" /></a> </p>
+ - **ConnectU Telegram Bot** 🤖
+   - Developing a Telegram bot to assist Ukrainians in registering for government services, such as obtaining a new passport from the embassy.
+   - The bot will monitor websites and notify users about available appointment slots.
+   - Core components and technologies: Swift, SwiftUI, XCode, Firebase, API, Core.
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Docker, AWS**
+ <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
+ <br/>
 
-- 👨‍💻 All of my projects are available at [davyd-kuleba.info](davyd-kuleba.info)
+ <h2>📝 Articles:</h2>
 
-- 📫 How to reach me **kulebadavid@gmail.com**
+ <h2>TreeTutorial: How to read planting site data</h2>
+ <a href="https://medium.com/veritree/treetutorial-how-to-read-planting-site-data-b58dd0b5cf1e">
+   <img src="https://i.ibb.co/xhcn7Bh/1-Nd-U297-RA5gvc-Y2m-JRPD-n-A.webp" alt="1-3pye6-F-D9-JT-Zh-Wb-QXHXIQ" border="0" width="330px">
+ </a>
+ <br/>
+ <a href="https://medium.com/veritree/treetutorial-how-to-read-planting-site-data-b58dd0b5cf1e">Read article</a>
+ <br />
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dE4nrq96rPw0bYWbFcHN_v0DQx9BrYjJ/view](https://drive.google.com/file/d/1dE4nrq96rPw0bYWbFcHN_v0DQx9BrYjJ/view)
+ <h2>How Veritree enables its partners to have an enhanced game experience</h2>
+   <a href="https://medium.com/veritree/how-veritree-enables-its-partners-to-have-an-enhanced-game-experience-354ae6f8f660">
+     <img src="https://i.ibb.co/HYQSrZd/1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A.webp" alt="1-9u0-Sw-LFMYHd-Ih-J-FJz-Vw3-A" border="0" width="330px">
+   </a>
+   <br/>
+   <a href="https://medium.com/veritree/how-veritree-enables-its-partners-to-have-an-enhanced-game-experience-354ae6f8f660">Read article</a>
+  <br/>
+  <br/>
+  <br/>
+ <h2>GitHub Stat:</h2>
 
-- ⚡ Fun fact **I love to climb and learn French**
+ ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&theme=dracula)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/glauuucoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="glauuucoma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davyd-kuleba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davyd-kuleba" height="30" width="40" /></a>
-<a href="https://medium.com/@kulebadavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kulebadavid" height="30" width="40" /></a>
-</p>
+ <br/>
+ <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glauuucoma&show_icons=true&locale=en" alt="glauuucoma" /></p>
+ ## 🔗Connect with me
+ <p>
+   <a href="mailto:kulebadavid@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://github.com/glauuucoma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+   <a href="https://www.linkedin.com/in/davyd-kuleba-716740216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ </p>
