@@ -3,12 +3,10 @@
  <br/>
  <h1> About me: </h1>
  <ul>
-   <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a stellar <b>3.6 GPA</b></li>
-   <li>📱 Experience in <b>Front-End development</b> and <b>iOS app development</b> with a strong grasp of <b>React, Tailwind CSS, Swift, SwiftUI and Python</b></li>
+   <li>🚀 Passionate student at <b>Seneca College</b>, pursuing Computer Programming and Analysis with a <b>3.5 GPA</b></li>
+   <li>📱 Experience in <b>Full-stack development</b> and <b>iOS app development</b></li>
    <li>🌟 Eager to dive into new languages and technologies, always excited to expand my skill set</li>
-   <li>🤖 Tools and Technologies: <b>Git, Docker, MySQL, Jira, Figma, Prototyping, UI/UX</b></li>
-   <li>👨‍💻 I Enjoy working collaboratively and learning from professionals to grow my knowledge by participating in Hackathons and having informational interviews</li>
-   <li>📚 Currently diving into data structures and algorithms for a strong foundation by solving <b>Leetcode</b> problems and taking <b>AlgoExpert course</b>.</li>
+   <li>👨‍💻 I Enjoy working collaboratively and learning from professionals to grow my knowledge by participating in Hackathons</li>
  </ul>
  <br/>
  <div align="center">
