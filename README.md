@@ -31,17 +31,6 @@
      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)">
      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)">
 
- <h2>💻 Currently Working On</h2>
-
-<ul><h3>Luv-ur-taste.com 🎵 </h3>
-   <li>Developing a web app that utilizes the user's Spotify playlist to analyze their music taste</li>
-   <li>Using AI to predict music that the user will enjoy and provide detailed analytics</li>
-   <li>Core components and technologies: React, Next.js, Tailwind CSS, MongoDB</li>
-  </ul>
-
- <h4>Keep an eye on my repositories for updates on these exciting projects!</h4>
- <br/>
-
  <h1> Hackathons projects:</h1>
  <h2>ByteBasket</h2>
  <h2>Empowering communities with a user-friendly food bank web app—effortless inventory browsing, quick checkout, and seamless connections for volunteering and product donations</h2>
